@@ -7,7 +7,7 @@ function Profile(){
     <div class="col">
     {/*    <div class="row">
          <div class="col-4 profile-comp" > */}         
-          <div class="profile-comp">
+          <div class="profile-comp2">
             <div class="banner">            
               <div class="profileMain">
                 <img class="profileImg" src={profileImage} alt="profile picture" width={80} height={80}/>

@@ -18,7 +18,12 @@ body {
 .profile-comp {
   border-width: .5px;
   border: solid #c7c7c7;
-  overflow: inherit;
+}
+
+.profile-comp2 {
+  border-width: .5px;
+  border: solid #c7c7c7;
+  height: 200px;
 }
 
 .tweet-header {
@@ -74,5 +79,15 @@ body {
 .tweet-border {
   border-width: .5px;
   border: solid #c7c7c7;
+}
+
+.followersuggestion {
+  border-width: .5px;
+  border: solid #c7c7c7;
+}
+
+.follower-header {
+  background-color: #1DA1F2;
+  border-radius: 10%;
 }
 
